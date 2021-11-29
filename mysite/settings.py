@@ -25,7 +25,7 @@ SECRET_KEY = 'r9))&ya_tar_k3(8ekqmo2hm=goayoy1&pew%x@moh7x2k7oc#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.amazonaws.com', 'd5bd21ab08654e12b944eb730989e809.vfs.cloud9.ap-northeast-1.amazonaws.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.amazonaws.com', 'd5bd21ab08654e12b944eb730989e809.vfs.cloud9.ap-northeast-1.amazonaws.com', 'yukiimai.pythonanywhere.com' ]
 
 
 # Application definition
